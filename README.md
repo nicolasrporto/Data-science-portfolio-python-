@@ -1,1 +1,0 @@
-Projects utilizing SciPy, NumPy, Pandas, and Matplotlib, primarily focused on physics and statistics. Key topics covered include Monte Carlo methods and the numerical solution of differential equations (such as those related to the IBOVESPA index, the Poisson equation, etc.).
